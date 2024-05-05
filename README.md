@@ -1,7 +1,7 @@
 ### Olá, meu nome é César Mafra!
 <img src="https://img.shields.io/static/v1?label=Overview&message=César Mafra&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-🌱 Atualmente estou estudando Inteligencia Artificial
+🌱 Sempre em busca de aprender algo novo
 
 
  
@@ -27,7 +27,7 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesarmafra&show_icons=true)
 
 💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 
