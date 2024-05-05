@@ -4,19 +4,13 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesarmafra&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesarmafra&show_icons=true&theme=synthwave)
 
 ## 💼 Minhas ferramentas
 
-<code>
-    <img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VSCode"/>
-</code>
-<code>
-    <img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-analytics-icon.png" alt="Google Analytics"/>
-</code>
-<code>
-    <img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Android Studio"/>
-</code>
+<code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VSCode"/></code>
+<code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-analytics-icon.png" alt="Google Analytics"/></code>
+<code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Android Studio"/></code>
 
 ## 🚀 Minhas skills
 
