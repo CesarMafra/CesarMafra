@@ -60,17 +60,20 @@
 </code>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+ ## 💌 Entre em contato: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <a href="https://www.instagram.com/lcesar_mafra/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="mailto:lailsonmafra@hotmail.com" title="Hotmail">
+        <img src="https://img.shields.io/badge/-Hotmail-0364b8?style=flat-square&labelColor=0364b8&logo=Hotmail&logoColor=white" alt="Hotmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/lailson-mafra/" title="LinkedIn">
+        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://wa.me/5511977158306?text=Ol%C3%A1+C%C3%A9sar%2C+tudo+bem%3F" title="WhatsApp">
+        <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+    <a href="https://www.instagram.com/lcesar_mafra/" title="Instagram">
+      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
 </p>
