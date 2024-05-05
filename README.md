@@ -10,6 +10,8 @@
 
 <code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VSCode"/></code>
 <code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-analytics-icon.png" alt="Google Analytics"/></code>
+<code><img height="32" src="https://seeklogo.com/images/G/google-data-studio-logo-6577854870-seeklogo.com.png" alt="Data Studio"/>
+</code>
 <code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Android Studio"/></code>
 
 ## 🚀 Minhas skills
@@ -25,12 +27,11 @@
 
 <p align="left">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue JS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://seeklogo.com/images/G/google-data-studio-logo-6577854870-seeklogo.com.png" alt="Data Studio"/>
-</code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" alt="ECMAScript 6"/></code>
+<code><img height="32" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="Java"/></code>
 </p>
 
 <p align="left">
